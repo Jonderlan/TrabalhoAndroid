@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1029914971115",
+    "firebase_url": "https://venda-e4e76.firebaseio.com",
+    "project_id": "venda-e4e76",
+    "storage_bucket": "venda-e4e76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029914971115:android:4b86bc5826004ba872a7ae",
+        "android_client_info": {
+          "package_name": "com.example.vendaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029914971115-eei2c83d1f6c9gav8ckcnm80l25ngbed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vendaapp",
+            "certificate_hash": "5151f176191c744cf48ae8f16d9d2e5bbb11aa99"
+          }
+        },
+        {
+          "client_id": "1029914971115-3ri7bdp3mtusv4rtd999sou4jjl2fhht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApjBX1mQ37N4h1l4p-UtLM81hlK7hEqSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029914971115-3ri7bdp3mtusv4rtd999sou4jjl2fhht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
